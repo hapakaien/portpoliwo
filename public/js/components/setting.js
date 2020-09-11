@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[45],{ZVlp:function(e,t,n){"use strict";n.r(t);var u={},l=n("KHd+"),r=Object(l.a)(u,(function(){var e=this.$createElement,t=this._self._c||e;return t("Layout",[t("router-view")],1)}),[],!1,null,null,null);t.default=r.exports}}]);

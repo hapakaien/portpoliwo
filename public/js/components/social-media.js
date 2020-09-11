@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[48],{jt0O:function(t,e,n){"use strict";n.r(e);var u={},r=n("KHd+"),l=Object(r.a)(u,(function(){var t=this.$createElement,e=this._self._c||t;return e("Layout",[e("router-view")],1)}),[],!1,null,null,null);e.default=l.exports}}]);
